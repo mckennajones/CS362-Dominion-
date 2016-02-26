@@ -1,0 +1,11 @@
+Assignment 2
+McKenna Jones
+CS 362
+
+Using gcov, the coverage for the 8 unit tests which I implemented was 19.89%.
+This value is not very high. However, the unit tests which I implemented were
+for some of the smaller functions in dominion.c. That being said, the percentage
+shows that if we want to be sure that the program is bug free, we need more unit
+tests. We also need tests that cover more of the code. Looking at the output of
+gcov, for some of the functions which were tested, not all scenarios were covered.
+If a unit test is supposedly testing a function, we want it to cover the entire function.

@@ -1,0 +1,23 @@
+//McKenna Jones
+//Assignment 1
+
+Refactored Cards:
+
+1) adventurer
+	Parameters: state
+	Variables: drawntreasure, currentPlayer, cardDrawn, temphand, z
+2) remodel
+	Parameters: state, choice1, choice2, int handPos
+	Variables: j, currentPlayer, i, j
+
+3) minion
+	Parameters: state, choice1, choice2, handPos
+	Variables: currentPlayer, i, j
+
+4) sea_hag
+	Parameters: state
+	Variables: i, currentPlayer
+
+5) steward
+	Parameters: state, choice1, choice2, choice3, handPos
+	Variables: currentPlayer
